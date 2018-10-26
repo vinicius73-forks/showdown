@@ -500,7 +500,7 @@ Please see [this issue](https://github.com/showdownjs/showdown/issues/114) to ex
 Full credit list at https://github.com/showdownjs/showdown/blob/master/CREDITS.md
 
 Showdown is powered by:<br/>
-[![webstorm](https://www.jetbrains.com/webstorm/documentation/docs/logo_webstorm.png)](https://www.jetbrains.com/webstorm/)
+[![webstorm](webstorm-logo.png)](https://www.jetbrains.com/webstorm/)
 
 
 
